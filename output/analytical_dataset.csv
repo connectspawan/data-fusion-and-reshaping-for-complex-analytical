@@ -1,0 +1,17 @@
+customer_id,name,age,signup_date,region,order_id,amount,order_date,product_category,visit_count,avg_rating,last_visit_date
+1,Bruce Wayne,25.0,2023-01-01,North,101.0,50.75,2023-01-15,Electronics,10.0,4.5,2023-01-30
+1,Bruce Wayne,25.0,2023-01-01,North,102.0,25.0,2023-01-20,Books,10.0,4.5,2023-01-30
+2,Jane Smith,30.0,2023-02-01,South,103.0,100.0,2023-02-10,Clothing,5.0,3.8,2023-02-25
+2,Jane Smith,30.0,2023-02-01,South,104.0,75.5,2023-02-15,Electronics,5.0,3.8,2023-02-25
+2,Jane Smith,30.0,2023-02-01,South,113.0,55.0,2023-02-20,Home,5.0,3.8,2023-02-25
+3,Bob Johnson,30.928571428571427,2023-03-01,West,105.0,30.25,2023-03-05,Books,2.0,2.5,2023-03-10
+4,Alice Brown,35.0,2023-04-01,North,106.0,200.0,2023-04-10,Home,8.0,4.0,2023-04-20
+4,Alice Brown,35.0,2023-04-01,North,114.0,35.5,2023-04-15,Clothing,8.0,4.0,2023-04-20
+5,Charlie Davis,28.0,2023-05-01,East,107.0,15.99,2023-05-12,Books,,4.0,
+5,Charlie Davis,28.0,2023-05-01,East,108.0,80.0,2023-05-15,Electronics,,4.0,
+5,Charlie Davis,28.0,2023-05-01,East,115.0,25.0,2023-05-20,Books,,4.0,
+6,Emma Wilson,30.928571428571427,2023-06-01,South,,,,,3.0,4.0,2023-06-15
+7,David Lee,40.0,2023-07-01,West,109.0,45.0,2023-07-01,Clothing,12.0,4.2,2023-07-15
+7,David Lee,40.0,2023-07-01,West,110.0,60.0,2023-07-10,Home,12.0,4.2,2023-07-15
+8,Sophia Clark,27.0,2023-08-01,North,111.0,120.0,2023-08-05,Electronics,,4.0,
+9,Michael Adams,32.0,2023-09-01,East,,,,,6.0,3.9,2023-09-10
