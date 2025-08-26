@@ -1,0 +1,10 @@
+customer_id,name,age,signup_date,region
+1,Bruce Wayne,25,2023-01-01,North
+2,Jane Smith,30,2023-02-01,South
+3,Bob Johnson,,2023-03-01,West
+4,Alice Brown,35,2023-04-01,North
+5,Charlie Davis,28,2023-05-01,East
+6,Emma Wilson,,2023-06-01,South
+7,David Lee,40,2023-07-01,West
+8,Sophia Clark,27,2023-08-01,North
+9,Michael Adams,32,2023-09-01,East
