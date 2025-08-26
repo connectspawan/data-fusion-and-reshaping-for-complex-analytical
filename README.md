@@ -2,7 +2,7 @@
 
 ## BrainyBeam Internship Submission
 
-**Author**: \Pawan Kumar Barnawal\\
+**Author**: \Pawan Kumar Barnawal\
 **Date**: August 24, 2025
 
 ## Project Overview
